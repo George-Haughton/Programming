@@ -21,6 +21,8 @@ Debugging is the process of finding and removing existing and potential errors a
 
 Within an IDE there is something called a debugger. You can use a debugger outside of an IDE but the ones within an IDE are completely integrated with the other workbench tools, this gives the user the flexibility they need to adress the problems at hand. A debugger is essential to ensuring there is no way the bug will survive. There are other softwares that can be used but none of them give the user the power like a debugger does. Firstly, one feature within the debugger that is very useful is the fact that it can display complete data structuresm full runtime stacks and multi-threaded environments easily and in a more readable way. The debugger offers several ways to reduce the time, and the repetitive work that comes with debugging. Additionally, a visual debugger integrated into an IDE gives the user access to smart editing and all of the other features of the IDE, in an 'Integrated Development Environment' which is also what IDE stands for, hence the name. Finally, unlike manual debuggers, debuggers within an IDE can attach to a running process or a crash dump; whereass in a manual debugger 'steps to reproduce' a defect are necessary.
 
+## 
+
 
 
 
