@@ -42,6 +42,8 @@ I wrote a set of code that when opened within a browser will create a black canv
 
 ![](https://gyazo.com/10bee2ce980a90efe0e280f2fefa2fa7.png)
 
+
+
 ## Debugging
 Debugging is the process of finding and removing existing and potential errors also referred to as 'bugs'. Debugging is used to get rid of these 'bugs' in software code that could cause the system to act incorrectly, crash, or not work at all. Additionally, when various subsystems or modules are tightly packed it makes debugging a lot harder as when one bug ix fixed it can cause another bug to occur. In some occasions it takes more time to debug a program than it does to code it. The debugging process can be a time consuming job but it has to be done. The first step of the debugging process is to Reproduce the bug/problem, it is very important you reproduce the bug to make sure you know what you're dealing with, if you cant reproduce the bug get someone else to. Secondly, describe the bug, try to get as much information/input from the user to get the exact reason. Thirdly, capture a program snapshot when the bug appears, to get to as much information on the bug, all the variable values and the state of the program at the time of the bug occuring. Fourthly, take a look at the screenshot in depth, does anything look out of place or different? Analyse the screenshot based on the state and action. Based on all this try to find the causes of the bug.Finally, the most important phase, fix the bug. Erase the bug as best you can to make sure your program runs as smoothly as possible, but make sure when fixing this bug it does not create another, somewhere else in the code.
 
