@@ -8,8 +8,21 @@ An Algorithm is a formula that solves a problem, based on completing/conducting 
 ### 2.1 Procedural
 Procedural language uses programming languages like Pascal, C++, Fortran and C; these are very detailed and will take up alot of time when writing them. Procedural language is a list of instructions that tell the computer exactly what to do. This language will make sure the computer knows step-by-step exactly what to do and how to perform each line of code until the code is finished. It relies on the programmer to do a lot of the work and the programmer will need to provide a solution to a problem or to proivde an answer to a question. It keeps the code as short as possible and somewhere in the code it will contain a sequence of steps that it needs to carry out. Additionally, it does not allow the programmer to copy and paste the code onto another program. Lastly, it can be very difficult to learn because it can take time getting used to.
 
+#### Characteristics
+* Puts important issues at the top of the to do list
+* bringing change can be difficult and time consuming 
+* data moves around freely from function to function
+* large problems are divided into smaller problems which are called functions
+* it employs and uses a top down approach within the program design
+
 ### 2.2 Object Orientated
 Object Orientated programming is a language model based around objects instead of 'actions' and instead of logic it uses data. Additioanlly, instead of writing an algorithm it breaks down the problem of elements into classes. It uses objects that consist of data fields and methods to create applications and computer programs. A few examples of common programming laguages that use some techniques from the Object orientated language, are Java, Microsoft Visual Basic .NET, Microsoft C# and C++. Finally, the programmers are able to edit the code without any errors appearing and unlike the Procedural language the programmer can copy and paste the code into other problems if they need to.
+
+#### Characteristics 
+* new data and funtions can be added easily at any point
+* programs are diided into entities know as objects
+* there is an emphasis on data rather than the procedure
+* follows bottom up design in program design
 
 ### 2.3  Event Driven
 This type of paradigm is determined by events or user actions for example mouse clicks, or keyboard presses. It can only be used alongside using a graphical user interface which is one of its main features. This program is not complex and does not need a huge amount of experience to use correctly. When making a program certain languages will only allow the programmer/user to save every property of the program one after the other; whereas with Event Driven programming the programmer can easily develop a program and save all of the properties at the same time saving a huge amount of time and effort.
