@@ -27,6 +27,11 @@ Object Orientated programming is a language model based around objects instead o
 ### 2.3  Event Driven
 This type of paradigm is determined by events or user actions for example mouse clicks, or keyboard presses. It can only be used alongside using a graphical user interface which is one of its main features. This program is not complex and does not need a huge amount of experience to use correctly. When making a program certain languages will only allow the programmer/user to save every property of the program one after the other; whereas with Event Driven programming the programmer can easily develop a program and save all of the properties at the same time saving a huge amount of time and effort.
 
+### Characteristics
+* does not slow down the computer as it uses very little processing power
+* designed to run a specific action when a specific event is triggered
+* trigger functions are mechanisms that decide what code to run when a specific event occurs
+
 ### Relationships
 The relationship between Event Driven and Procedural are is that they both are methods of structured programming where the code is split into routines and functions. Both are able to take input from the user or from within the program and make calls to the various functions within the program based on the information it recieves. Additionally, early versions of the Object orientated Programming included Event Driven systems such as simulations and graphical user interfaces. Lastly, each Paradigm is trying to find a solution to a problem but the difference is how they use their solution to solve the problem.
 
